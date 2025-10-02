@@ -22,6 +22,6 @@ public class P1 {
         System.out.println("Jayant");
          P1 p1 = new P1();
         System.out.println(p1.b);
-
+        System.out.println(p1.b);
     }
 }
