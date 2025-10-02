@@ -8,5 +8,7 @@ public class P1 {
 
         System.out.println("Jayant Rajput");
         Reporter.log("Print"+ P1.a,true);
+        Reporter.log("Print"+ P1.a,true);
+        Reporter.log("Print"+ P1.a,true);
     }
 }
